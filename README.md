@@ -24,3 +24,4 @@
 
 ### Другое
 * id посылки на codeforces: [292898085](https://dsahse.contest.codeforces.com/group/NOflOR1Qt0/contest/565612/submission/292898085)
+* [публичный репозиторий](https://github.com/Gruz2520/monte_carlo_area) 
